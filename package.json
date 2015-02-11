@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/octoblu/accelerometer-math/issues"
   },
-  "homepage": "https://github.com/octoblu/accelerometer-math"
+  "homepage": "https://github.com/octoblu/accelerometer-math",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "coffee-script": "^1.9.0",
+    "mocha": "^2.1.0",
+    "sinon": "^1.12.2",
+    "sinon-chai": "^2.6.0"
+  }
 }
