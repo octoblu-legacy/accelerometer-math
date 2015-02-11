@@ -1,6 +1,6 @@
 {
   "name": "accelerometer-math",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Vector calculations for accelerometer data",
   "main": "index.js",
   "scripts": {
