@@ -10,7 +10,7 @@ class Vector
   velocity:=>
     result = @magnitude()
     return -result if @y < 0
-    return result
+    return  result
 
 
 
