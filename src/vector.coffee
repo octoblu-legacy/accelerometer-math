@@ -12,6 +12,4 @@ class Vector
     return -result if @y < 0
     return  result
 
-
-
 module.exports = Vector
